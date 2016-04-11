@@ -6,7 +6,7 @@ Makes use a fsfilter driver to apply irp on your process and deny access.
 
 # os
 
-windows 7, 8.1, 10 x64/x86
+windows 7, 8.1, 10 x64
 
 # compile
 
